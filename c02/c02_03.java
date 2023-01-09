@@ -1,6 +1,6 @@
 package c02;
 
-public class c02_3 {
+public class c02_03 {
     public static void main(String[] args){
         int x =3;
         int y = 5;

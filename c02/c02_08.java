@@ -1,6 +1,6 @@
 package c02; //실수 타입
 
-public class c02_8 {
+public class c02_08 {
     public static void main(String[] args) {
         float var1 = 0.1234567890123456789f;
         double var2 = 0.1234567890123456789;

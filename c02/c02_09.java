@@ -1,6 +1,6 @@
 package c02; //논리 타입
 
-public class c02_9 {
+public class c02_09 {
     public static void main(String[] args){
         boolean stop = true;
         if(stop) {

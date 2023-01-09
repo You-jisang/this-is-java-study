@@ -1,6 +1,6 @@
 package c02; //유니코드
 
-public class c02_7 {
+public class c02_07 {
     public static void main(String[] args) {
         char c1 = 'A';
         char c2 = 65;

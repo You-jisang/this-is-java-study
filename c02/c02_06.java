@@ -1,6 +1,6 @@
 package c02;
 
-public class c02_6 {
+public class c02_06 {
     public static void main(String[] args) {
         long var1 = 10;
         long var2 = 20L;

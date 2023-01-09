@@ -1,6 +1,6 @@
 package c02;
 
-public class c02_5 {
+public class c02_05 {
     public static void main(String[] args) {
         byte var1 = -128;
         byte var2 = -30;

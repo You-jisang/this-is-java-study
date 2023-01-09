@@ -1,6 +1,6 @@
 package c02;
 
-public class c02_2 {
+public class c02_02 {
     public static void main(String[] args){
         int hour = 3;
         int minute =5;
