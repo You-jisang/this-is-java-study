@@ -17,9 +17,7 @@ public class WeekExample {
             case 5: today = Week.THURSDAY; break;
             case 6: today = Week.FRIDAY; break;
             case 7: today = Week.SATURDAY; break;
-
         }
-
-        System.out.println(today + " " + week);
+        System.out.println("today: " + today);
     }
 }
