@@ -1,6 +1,4 @@
-package c10.sec03;
-
-import java.lang.reflect.Array;
+package c11.sec03;
 
 public class ExceptionHandlingExample {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package c10.sec06;
+package c11.sec06;
 
 public class InsufficientException extends Exception {
     public InsufficientException() {

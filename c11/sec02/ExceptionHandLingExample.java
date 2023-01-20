@@ -1,4 +1,4 @@
-package c10.sec02;
+package c11.sec02;
 
 public class ExceptionHandLingExample {
     public static void main(String[] args) {

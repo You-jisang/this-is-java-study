@@ -1,6 +1,4 @@
-package c10.sec02;
-
-import javax.swing.*;
+package c11.sec02;
 
 public class ExceptionHandLingExample1 {
     public static void printLength(String data) {

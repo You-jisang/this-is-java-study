@@ -1,4 +1,4 @@
-package c10.sec04;
+package c11.sec04;
 
 public class MyResource implements AutoCloseable{
     private String name;

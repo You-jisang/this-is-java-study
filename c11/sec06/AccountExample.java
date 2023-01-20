@@ -1,4 +1,4 @@
-package c10.sec06;
+package c11.sec06;
 
 public class AccountExample {
     public static void main(String[] args) {
